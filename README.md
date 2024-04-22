@@ -5,6 +5,6 @@
 
 ## Grupo:
 - Amanada Herculano - 22.00986-8
-- Gabrile laxy - 23.00123-2
+- Gabriel laxy - 23.00123-2
 - Íris de Campos Melero - 23.01109-2
 - Maria Eduarda Rodrigues - 23.00018-0
